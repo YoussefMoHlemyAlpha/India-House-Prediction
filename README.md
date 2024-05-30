@@ -1,1 +1,2 @@
 # India-House-Prediction
+In this project, we conduct an in-depth analysis of historical house price data in Bangalore, India. Utilizing a neural network model, we study the data based on various features to forecast house prices. Effectively predicting house prices is a daunting task beyond mere square footage. Many factors significantly influence the valuation of a property, necessitating a comprehensive approach to modeling and prediction.
